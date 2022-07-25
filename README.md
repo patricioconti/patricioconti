@@ -31,13 +31,13 @@ I am passionate about taking on challenges, have a wide variety of interests, an
 patricioconti@hotmail.com
 
 ## Skills:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+![Android](https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+![Android_Studio](https://img.shields.io/badge/Android_Studio-A4C639?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio_Conti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/patricio-conti-aa531b14) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricio_Conti-1836BD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/patricio-conti-aa531b14) 
 
 
 
