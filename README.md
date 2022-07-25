@@ -1,3 +1,5 @@
+## This is me:
+
 👀The first thing I am going to tell you is my main defect. I am not going to say that is being a perfectionist or that it is hard for me to delegate tasks. It would be too cliche.
 
 Nope.
