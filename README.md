@@ -4,7 +4,7 @@
 
 Nope.
 
-📱My main defect is that my experience in developing mobile applications with Android (Kotlin) is less than a year. That doesn't make me feel good or bad. It simply is.
+📱My main defect is that my experience in developing mobile applications with Android (Kotlin) is a little over a year. That doesn't make me feel good or bad. It simply is.
 
 If this is a problem, maybe you should stop reading here.
 
